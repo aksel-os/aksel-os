@@ -1,3 +1,5 @@
+![Image](./images/leaves_background.jpg)
+
 ## Hi, I'm Aksel
 I am a programming and systemsarchitecture student @ Institute of Informatics
 at the University of Oslo. 
